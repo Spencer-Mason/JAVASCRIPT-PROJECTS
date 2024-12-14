@@ -8,6 +8,10 @@ Repository for The Tech Academy's JavaScript course.
 - [Simple-Recipes](#simple-recipes)
 - [Pizza_Project](#pizza_project)
 - [TicTacToe](#tictactoe)
+- [AJAX](#ajax)
+- [JQuery](#jquery)
+- [React_Projects](#react_projects)
+- [todo_app](#todo_app)
 
 ### Basic JavaScript Projects
 Folder containing several basic pages using JavaScript made as practice projects
@@ -26,3 +30,15 @@ A sample page for cusomizing and ordering a pizza
 
 ### TicTacToe
 Simple game of TicTacToe, but with ducks. Play against a computer that randomly rolls it's placement
+
+### AJAX
+Simple tutorial page that uses AJAX and responds with a "thank you" message
+
+### JQuery
+JQuery tutorial page
+
+### React_Projects
+Several tutorial projects using react
+
+### todo_app
+App used to make a todo list and saves it
