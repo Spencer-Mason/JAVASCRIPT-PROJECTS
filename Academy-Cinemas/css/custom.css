@@ -34,6 +34,17 @@ body{
     height: 100px;
 }
 
+/*Shrink on scroll navbar*/
+.nav-shrink {
+    height: 80px;
+    transition: .5s ease;
+}
+
+/*Adds a transition to the movie drop down menu on shrink and scroll*/
+.navbar-collapse {
+    transition: margin-top 0.5s ease;
+}
+
 /*Affects the title in the navbar Academy Cinemas*/
 .navbar-brand{
     color: var(--main-color-accent);
@@ -292,4 +303,18 @@ footer{
 .footer-img{
     width: auto;
     height: 130px;
+}
+
+/*POPOVERS*/
+.star-rating {
+    width: 80%;
+}
+
+/*TOAST*/
+.custom-toast {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
 }
